@@ -55,7 +55,7 @@ Initial EDA of the datasets provided is centered around making sure to create co
 
 ## Part Three: Progress Report + Preliminary Findings
 
-The original submission to Kaggle was done on March 14th, the day of the deadline.  Subsequent model evaluation was done after the tournament already started but not using any of the results from the actual tourney as it was going on.  The final Kaggle score after the tournament end was 0.698145 and ranking of 736.  That was definitely not very good.
+The original submission to Kaggle was done on March 14th, the day of the deadline.  Subsequent model evaluation was done after the tournament already started but not using any of the results from the actual tourney as it was going on.  The final Kaggle score after the tournament end was 0.698145 and ranking of 736.  That was definitely not very good.  However, subsequent model evaluation has proven to show much better models for predicting wins and losses throughout the tournament.
 
 ## Part Four:  Report Writeup + Technical Analysis
 
