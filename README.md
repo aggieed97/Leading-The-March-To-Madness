@@ -70,3 +70,5 @@ Technical report has been uploaded as a PDF and details the background, the mode
 [NBA Analytics 101 Primer by NBAStuffer](https://www.nbastuffer.com/analytics-101/)  
 [Rusty LaRue: Player Efficiency Stats](http://www.rustylarue.com/more-than-94/player-efficiency-stats)  
 [FiveThirtyEight: Calculating NBA Elo Ratings](https://fivethirtyeight.com/features/how-we-calculate-nba-elo-ratings/)  
+[Elo Rating System](https://en.wikipedia.org/wiki/Elo_rating_system)  
+[Replicating Nate Silver's Elo Algorithm](https://www.ergosum.co/nate-silvers-nba-elo-algorithm/)
