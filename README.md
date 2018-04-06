@@ -55,13 +55,18 @@ Initial EDA of the datasets provided is centered around making sure to create co
 
 ## Part Three: Progress Report + Preliminary Findings
 
+The original submission to Kaggle was done on March 14th, the day of the deadline.  Subsequent model evaluation was done after the tournament already started but not using any of the results from the actual tourney as it was going on.  The final Kaggle score after the tournament end was 0.698145 and ranking of 736.  That was definitely not very good.
+
 ## Part Four:  Report Writeup + Technical Analysis
 
-## Part Five:  Presentation + Recommendations
+Technical report has been uploaded as a PDF and details the background, the models, and the results found in the project.
+
+## Part Five:  Presentation + Recommendations (due 4/10/2018)
 
 ## Resources
 
 [NCAA Men's Tournament Kaggle Competition](https://www.kaggle.com/c/mens-machine-learning-competition-2018)  
-[2018 Pomeroy College Basketball Ratings](https://kenpom.com/){:target="_blank"}  
+[2018 Pomeroy College Basketball Ratings](https://kenpom.com/)  
 [NBA Analytics 101 Primer by NBAStuffer](https://www.nbastuffer.com/analytics-101/)  
-[Rusty LaRue: Player Efficiency Stats](http://www.rustylarue.com/more-than-94/player-efficiency-stats)
+[Rusty LaRue: Player Efficiency Stats](http://www.rustylarue.com/more-than-94/player-efficiency-stats)  
+[FiveThirtyEight: Calculating NBA Elo Ratings](https://fivethirtyeight.com/features/how-we-calculate-nba-elo-ratings/)  
